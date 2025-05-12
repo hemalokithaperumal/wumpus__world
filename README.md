@@ -160,8 +160,11 @@ while(player):
 </pre>
 
 <h1>Output:</h1>
-<image src="image.png">
-<image src="image-1.png">
+
+![image](https://github.com/user-attachments/assets/5eeada4d-e3bf-43df-83c6-cf4ba78ddfda)
+
+![image](https://github.com/user-attachments/assets/4d1da972-e3c9-4cb5-9cc6-2e062a54b0f0)
+
 
 <br>
 <h1>Result:</h1>
